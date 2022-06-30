@@ -1,0 +1,6 @@
+---- DTE has not yet bind with DCE Matches (5 in 1 files) ----
+Esp_modem.c (components\modem\src):    MODEM_CHECK(dce, "DTE has not yet bind with DCE", err);
+Esp_modem.c (components\modem\src):    MODEM_CHECK(dce, "DTE has not yet bind with DCE", err);
+Esp_modem.c (components\modem\src):    MODEM_CHECK(dce, "DTE has not yet bind with DCE", err);
+Esp_modem.c (components\modem\src):    MODEM_CHECK(dce, "DTE has not yet bind with DCE", err);
+Esp_modem.c (components\modem\src):    MODEM_CHECK(dce, "DTE has not yet bind with DCE", err);

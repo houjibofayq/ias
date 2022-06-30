@@ -1,0 +1,12 @@
+idf_component_register(SRCS "ixe_main.c"
+							"ixe_mqtt.c"
+							"ixe_ota.c"
+							"ixe_blufi_security.c"
+							"ixe_ias_cmd.c"
+							"ixe_ias_util.c"
+							"ixe_ias_4g.c"
+							"ixe_ias_485.c"
+							"ixe_ias_hmi.c"
+							"ixe_ias_lora.c"
+                    INCLUDE_DIRS "."
+					EMBED_TXTFILES ${project_dir}/server_certs/ca_cert.pem)
